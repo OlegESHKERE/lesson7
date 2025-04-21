@@ -1,0 +1,307 @@
+[
+    {
+      "name": "Nike Air Force 1",
+      "price": 129.99,
+      "size": "42",
+      "brand": "Nike",
+      "category": "Sneakers",
+      "description": "Класичні білі кросівки з шкіри."
+    },
+    {
+      "name": "Levi's 501 Original Jeans",
+      "price": 89.99,
+      "size": "32/32",
+      "brand": "Levi's",
+      "category": "Jeans",
+      "description": "Прямі класичні джинси з бавовни."
+    },
+    {
+      "name": "Adidas Originals Hoodie",
+      "price": 74.99,
+      "size": "M",
+      "brand": "Adidas",
+      "category": "Hoodie",
+      "description": "Чорна худі з логотипом Adidas."
+    },
+    {
+      "name": "The North Face Nuptse Jacket",
+      "price": 279.99,
+      "size": "L",
+      "brand": "The North Face",
+      "category": "Jacket",
+      "description": "Тепла пухова куртка для зими."
+    },
+    {
+      "name": "Tommy Hilfiger Polo Shirt",
+      "price": 59.99,
+      "size": "M",
+      "brand": "Tommy Hilfiger",
+      "category": "Polo",
+      "description": "Класичне біле поло з логотипом."
+    },
+    {
+      "name": "Calvin Klein Boxer Briefs 3-Pack",
+      "price": 39.99,
+      "size": "L",
+      "brand": "Calvin Klein",
+      "category": "Underwear",
+      "description": "Комплект із трьох пар боксерів."
+    },
+    {
+      "name": "Carhartt WIP Chase Sweatshirt",
+      "price": 79.99,
+      "size": "L",
+      "brand": "Carhartt WIP",
+      "category": "Sweatshirt",
+      "description": "Сірий світшот із логотипом."
+    },
+    {
+      "name": "Zara Slim Fit Blazer",
+      "price": 119.00,
+      "size": "48",
+      "brand": "Zara",
+      "category": "Blazer",
+      "description": "Елегантний піджак із вовни."
+    },
+    {
+      "name": "H&M Cotton T-Shirt",
+      "price": 14.99,
+      "size": "M",
+      "brand": "H&M",
+      "category": "T-Shirt",
+      "description": "Бавовняна футболка базового стилю."
+    },
+    {
+      "name": "Uniqlo Ultra Light Down Vest",
+      "price": 49.90,
+      "size": "M",
+      "brand": "Uniqlo",
+      "category": "Vest",
+      "description": "Легка пухова жилетка."
+    },
+    {
+      "name": "Dr. Martens 1460 Boots",
+      "price": 199.99,
+      "size": "43",
+      "brand": "Dr. Martens",
+      "category": "Boots",
+      "description": "Культові чорні шкіряні черевики."
+    },
+    {
+      "name": "Patagonia Better Sweater Fleece",
+      "price": 139.00,
+      "size": "L",
+      "brand": "Patagonia",
+      "category": "Fleece",
+      "description": "Теплий флісовий светр для активностей."
+    },
+    {
+      "name": "New Balance 574",
+      "price": 99.99,
+      "size": "42",
+      "brand": "New Balance",
+      "category": "Sneakers",
+      "description": "Зручні повсякденні кросівки."
+    },
+    {
+      "name": "Balenciaga Logo Cap",
+      "price": 295.00,
+      "size": "One Size",
+      "brand": "Balenciaga",
+      "category": "Accessories",
+      "description": "Чорна кепка з вишитим логотипом."
+    },
+    {
+      "name": "Gucci GG Marmont Belt",
+      "price": 495.00,
+      "size": "90",
+      "brand": "Gucci",
+      "category": "Accessories",
+      "description": "Шкіряний ремінь із золотою пряжкою."
+    },
+    {
+      "name": "Prada Re-Nylon Backpack",
+      "price": 1450.00,
+      "size": "One Size",
+      "brand": "Prada",
+      "category": "Bag",
+      "description": "Легкий чорний рюкзак із переробленого нейлону."
+    },
+    {
+      "name": "Stone Island Soft Shell-R Jacket",
+      "price": 530.00,
+      "size": "L",
+      "brand": "Stone Island",
+      "category": "Jacket",
+      "description": "Функціональна куртка з водостійкою обробкою."
+    },
+    {
+      "name": "Off-White Industrial Belt",
+      "price": 210.00,
+      "size": "200 cm",
+      "brand": "Off-White",
+      "category": "Accessories",
+      "description": "Яскравий ремінь зі знаменитим принтом."
+    },
+    {
+      "name": "Lacoste Classic Fit Polo",
+      "price": 89.50,
+      "size": "M",
+      "brand": "Lacoste",
+      "category": "Polo",
+      "description": "Поло зі знаменитим логотипом крокодила."
+    },
+    {
+      "name": "Supreme Box Logo Tee",
+      "price": 150.00,
+      "size": "M",
+      "brand": "Supreme",
+      "category": "T-Shirt",
+      "description": "Лімітована футболка з коробчатим логотипом."
+    },
+    {
+      "name": "Ralph Lauren Cable Knit Sweater",
+      "price": 155.00,
+      "size": "L",
+      "brand": "Polo Ralph Lauren",
+      "category": "Sweater",
+      "description": "Класичний в'язаний светр."
+    },
+    {
+      "name": "Under Armour Training Shorts",
+      "price": 29.99,
+      "size": "L",
+      "brand": "Under Armour",
+      "category": "Shorts",
+      "description": "Легкі шорти для тренувань."
+    },
+    {
+      "name": "Reebok Classic Leather",
+      "price": 79.99,
+      "size": "42",
+      "brand": "Reebok",
+      "category": "Sneakers",
+      "description": "Шкіряні кросівки у ретро-стилі."
+    },
+    {
+      "name": "Canada Goose Expedition Parka",
+      "price": 1295.00,
+      "size": "L",
+      "brand": "Canada Goose",
+      "category": "Parka",
+      "description": "Дуже тепла куртка для екстремальних холодів."
+    },
+    {
+      "name": "ASOS Design Relaxed Trousers",
+      "price": 45.00,
+      "size": "32",
+      "brand": "ASOS",
+      "category": "Trousers",
+      "description": "Комфортні штани у вільному стилі."
+    },
+    {
+      "name": "Mango Man Wool Coat",
+      "price": 229.99,
+      "size": "50",
+      "brand": "Mango",
+      "category": "Coat",
+      "description": "Класичне вовняне пальто."
+    },
+    {
+      "name": "Champion Reverse Weave Hoodie",
+      "price": 95.00,
+      "size": "M",
+      "brand": "Champion",
+      "category": "Hoodie",
+      "description": "Преміальна худі з щільної тканини."
+    },
+    {
+      "name": "Puma Essentials Logo T-Shirt",
+      "price": 24.99,
+      "size": "M",
+      "brand": "Puma",
+      "category": "T-Shirt",
+      "description": "Футболка з великим логотипом Puma."
+    },
+    {
+      "name": "Moncler Grenoble Down Jacket",
+      "price": 1750.00,
+      "size": "L",
+      "brand": "Moncler",
+      "category": "Jacket",
+      "description": "Пухова куртка преміум класу."
+    },
+    {
+      "name": "Balmain Biker Jeans",
+      "price": 995.00,
+      "size": "32",
+      "brand": "Balmain",
+      "category": "Jeans",
+      "description": "Джинси з мотоциклетними вставками."
+    },
+    {
+      "name": "Fear of God Essentials Hoodie",
+      "price": 110.00,
+      "size": "M",
+      "brand": "Fear of God",
+      "category": "Hoodie",
+      "description": "Оверсайз худі базової колекції."
+    },
+    {
+      "name": "Versace Baroque Bathrobe",
+      "price": 595.00,
+      "size": "L",
+      "brand": "Versace",
+      "category": "Robe",
+      "description": "Розкішний халат із бароковим принтом."
+    },
+    {
+      "name": "Bershka Cargo Pants",
+      "price": 49.99,
+      "size": "32",
+      "brand": "Bershka",
+      "category": "Pants",
+      "description": "Карго штани з накладними кишенями."
+    },
+    {
+      "name": "Jack & Jones Wool Blend Coat",
+      "price": 139.99,
+      "size": "M",
+      "brand": "Jack & Jones",
+      "category": "Coat",
+      "description": "Стильне пальто зі змішаною вовною."
+    },
+    {
+      "name": "Superdry Vintage Logo Sweatshirt",
+      "price": 64.99,
+      "size": "L",
+      "brand": "Superdry",
+      "category": "Sweatshirt",
+      "description": "Класичний світшот із великим принтом."
+    },
+    {
+      "name": "COS Relaxed Fit T-Shirt",
+      "price": 29.00,
+      "size": "M",
+      "brand": "COS",
+      "category": "T-Shirt",
+      "description": "Мінімалістична футболка з бавовни."
+    },
+    {
+      "name": "Pull&Bear Denim Jacket",
+      "price": 59.99,
+      "size": "L",
+      "brand": "Pull&Bear",
+      "category": "Jacket",
+      "description": "Джинсова куртка класичного крою."
+    },
+    {
+      "name": "GAP Logo Hoodie",
+      "price": 54.99,
+      "size": "M",
+      "brand": "GAP",
+      "category": "Hoodie",
+      "description": "Базова худі з логотипом."
+    }
+  ]
+  
